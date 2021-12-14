@@ -42,5 +42,7 @@ Processing...
 
 Done
 
+<img width="672" alt="Screen Shot 2021-12-14 at 4 53 12 PM" src="https://user-images.githubusercontent.com/78838605/146092236-de41462d-1a26-4eaf-98b3-6ed6e5fc1cef.png">
+
 \>>
 \>> diary off
