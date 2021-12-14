@@ -21,6 +21,8 @@ Processing...
 
 Done
 
+<img width="628" alt="Screen Shot 2021-12-14 at 4 35 19 PM" src="https://user-images.githubusercontent.com/78838605/146090259-4a2faab5-560c-4d3b-ac46-e645c4aef6a1.png">
+
 \>> octave_lab3
 
 Enter your image name: 'tele.jpg'
