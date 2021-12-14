@@ -1,8 +1,8 @@
 # Image Filter with Octave
 
->> clear all
+\>> clear all
 
->> octave_lab3
+\>> octave_lab3
 
 Enter your image name: 'strings.jpg'
 
@@ -21,7 +21,7 @@ Processing...
 
 Done
 
->> octave_lab3
+\>> octave_lab3
 
 Enter your image name: 'tele.jpg'
 
@@ -40,5 +40,5 @@ Processing...
 
 Done
 
->>
->> diary off
+\>>
+\>> diary off
